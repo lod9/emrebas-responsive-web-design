@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+body {
+    overflow-x: hidden;
+}
+
+.mid-title {
+    font-family: satoshi;
+    font-weight: 900;
+}
+
+.menu-style {
+    display: inline-block;
+    text-decoration: none;
+}
+
+::-moz-selection {
+    color: #000000;
+    background: rgb(255, 255, 255);
+}
+
+ ::selection {
+    color: #000000;
+    background: rgb(255, 255, 255);
+}
+
+.show-plan {
+    font-family: satoshi;
+    font-weight: 900;
+}
+
+.ben-kimim-title-1 {
+    font-family: satoshi;
+    font-weight: 500;
+}
+
+.ben-kimim-title {
+    font-family: satoshi;
+    font-weight: 900;
+}
+
+.ben-kimim-text {
+    font-family: satoshi;
+    font-weight: 500;
+}
+
+.pbox {
+    background-image: url("/assets/images/emrebas4.jpg");
+    background-size: cover;
+    filter: grayscale(500);
+    border: .0625rem solid white;
+    text-shadow: .2083vw .2083vw .2083vw .2083vw #000000;
+    cursor: pointer;
+}

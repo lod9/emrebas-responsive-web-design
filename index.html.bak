@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./assets/style/style.css">
+</head>
+
+<body class="bg-neutral-950">
+    <div class="app w-screen h-screen">
+
+        <!-- <div class="bg-red-900 w-full h-[2.5rem] text-sm flex items-center justify-center underline decoration-solid text-white font-sans bant-title">
+            Join Team Thavage! | Represent the Brand
+        </div> -->
+        <!-- <nav>
+            <div class="fixed bg-neutral-950 w-full h-[4.5rem] hidden sm:block" style="border-bottom: .125rem solid #171717;">
+                <div class="flex mt-[0vw]">
+                    <img src="./assets/images/logo.png" class="mx-auto w-[8rem] h-[5rem] ">
+                </div>
+                <div class="flex space-x-4 space-y-0 mt-[-3.9rem] ml-7" style="font-family: 'Roboto', sans-serif; font-weight: 400;">
+                    <a href="#" class="text-gray-300 px-3 py-2 text-sm mb-4 top-[1.494rem] menu-style" aria-current="page">Anasayfa</a>
+                    <a href="#" class="text-gray-300 px-3 py-2 text-sm top-[1.494rem] menu-style">Hakkımda</a>
+                    <a href="#" class="text-gray-300 px-3 py-2 text-sm top-[1.494rem] menu-style">Planlar</a>
+                    <a href="#" class="text-gray-300 px-3 py-2 text-sm top-[1.494rem] menu-style">Sponsorlar</a>
+                    <a href="#" class="text-gray-300 px-3 py-2 text-sm top-[1.494rem] menu-style">İletişim</a>
+                </div>
+            </div>
+            <div class="sm:hidden" id="mobile-menu">
+                <div class="flex mt-[0vw]">
+                    <img src="./assets/images/logo.png" class="mx-auto w-[8rem] h-[5rem] ">
+                </div>
+                <div class="space-y-1 px-2 pb-3 pt-2" style="font-family: 'Roboto', sans-serif; font-weight: 400;">
+                    <a href="# " class="text-white  hover:text-white block rounded-md px-3 py-2 menu-style2" aria-current="page ">Anasayfa</a>
+                    <a href="# " class="text-gray-300  hover:text-white block rounded-md px-3 py-2 menu-style2">Hakkımda</a>
+                    <a href="# " class="text-gray-300  hover:text-white block rounded-md px-3 py-2 menu-style2">Planlar</a>
+                    <a href="# " class="text-gray-300  hover:text-white block rounded-md px-3 py-2 menu-style2">Sponsorlar</a>
+                    <a href="# " class="text-gray-300  hover:text-white block rounded-md px-3 py-2 menu-style2">İletişim</a>
+                </div>
+            </div>
+        </nav> -->
+        <div class="absolute w-full h-[48rem]">
+            <img src="./assets/images/image1.jpg" class="w-full h-full" style="object-fit: cover;">
+        </div>
+        <div class="absolute mt-[1rem] ml-[1rem]">
+            <img src="./assets/images/logo.png" class="mx-auto w-[8rem] h-[5rem] ">
+        </div>
+    </div>
+
+</body>
+
+</html>
